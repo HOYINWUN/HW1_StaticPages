@@ -1,0 +1,16 @@
+body{background-color:rgb(255,255,255);}
+#moon{
+  background-image:url("https://cdn.cnn.com/cnnnext/dam/assets/180725085608-01-mars-lake-radar-evidence-exlarge-169.jpg");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position:center;
+  width:900px;
+  height:600px;
+  position: absolute;
+  top:60px;
+  left:320px;
+  background-color:#5E5E5E;
+  color: white;
+  font-weight:bold;
+  font-size:2em;
+}
